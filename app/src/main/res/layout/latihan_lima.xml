@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="4"
+    android:orientation="horizontal">
+
+   <TextView
+       android:text="A"
+       android:padding="32dp"/>
+    <TextView
+        android:text="B"
+        android:padding="32dp"/>
+    <TextView
+        android:text="C"
+        android:padding="32dp"/>
+    <TextView
+        android:text="D"
+        android:padding="32dp"/>
+    <TextView
+        android:text="E"
+        android:padding="32dp"/>
+    <TextView
+        android:text="F"
+        android:padding="32dp"/>
+    <TextView
+        android:text="G"
+        android:padding="32dp"/>
+    <TextView
+        android:text="H"
+        android:padding="32dp"/>
+    <TextView
+        android:text="I"
+        android:padding="32dp"/>
+    <TextView
+        android:text="J"
+        android:padding="32dp"/>
+    <TextView
+        android:text="K"
+        android:padding="32dp"/>
+    <TextView
+        android:text="L"
+        android:padding="32dp"/>
+
+
+
+</GridLayout>
